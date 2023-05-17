@@ -1,0 +1,31 @@
+Análise crítica textual sobre Scrum Case: Como o FBI Desenvolveu em 1 ano um projeto que estava atrasado há 10 anos e com economia de 90% do investimento?
+
+Artigo -> https://www.zappts.com/blog/scrum-case-como-o-fbi-desenvolveu-em-1-ano-um-projeto-que-estava-atrasado-ha-10-anos-e-com-economia-de-90-do-investimento/
+
+
+
+Por que a abordagem ágil foi utilizada e não a tradicional para o projeto?
+Pois o Scrum é um framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos.
+
+
+
+Por que o Scrum foi utilizado?
+Scrum é simples. Experimente como está e determine se sua filosofia, teoria e estrutura ajudam a atingir objetivos e criar valor. O framework Scrum é propositalmente incompleto, apenas definindo as partes necessárias para implementar a teoria Scrum. O Scrum é construído sobre a inteligência coletiva das pessoas que o utilizam. Em vez de fornecer às pessoas instruções detalhadas, as regras do Guia do Scrum orientam seus relacionamentos e interações. Vários processos, técnicas e métodos podem ser empregados com o framework. Scrum se acopla as práticas existentes ou as torna desnecessárias. Scrum torna visível a eficácia relativa da gestão atual, meio ambiente e técnicas de trabalho, para que melhorias possam ser feitas.
+
+
+
+O resultado final era inovador? Por quê?
+Pois foi realizado uma economia de mais de 90%.
+
+
+
+O que você faria diferente?
+Teria iniciado pela metodologia ágil.
+
+
+
+Outros tópicos que você acha interessante
+Acho interessante a questão de escalar o Scrum com o Nexus.
+
+
+LINK -> https://web.dio.me/articles/analise-critica-textual-sobre-scrum-case-como-o-fbi-desenvolveu-em-1-ano-um-projeto-que-estava-atrasado-ha-10-anos-e-com-economia-de-90-do-investimento?back=%2Farticles&open-modal=true&page=1&order=oldest
